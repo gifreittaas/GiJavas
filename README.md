@@ -1,1 +1,1 @@
-# GiJavas
+# Javascript-projeto-de-vida
